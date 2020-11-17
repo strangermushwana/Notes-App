@@ -1,2 +1,2 @@
 # notes-app
-Node CLI app for taking down notes
+Node.js CLI app for taking down notes
